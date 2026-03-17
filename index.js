@@ -11,7 +11,7 @@ import PastebinAPI from 'pastebin-js'
 import path, { dirname } from 'path'
 import pino from 'pino'
 import { fileURLToPath } from 'url'
-let pastebin = new PastebinAPI('EMWTMkQAVfJa9kM-MRUrxd5Oku1U7pgL')
+let pastebin = new PastebinAPI('WgRGngwD6YAaVHaoXpvWN1nnUYMXBA3S')
 
 const app = express()
 
